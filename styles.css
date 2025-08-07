@@ -166,7 +166,7 @@ input:checked~nav {
     transform: scale(1);
     opacity: 1;
 }
-
+ 
 nav {
     position: absolute;
     background: #ffffff14;
